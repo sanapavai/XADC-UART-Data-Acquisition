@@ -33,7 +33,7 @@ The receiver can combine these two bytes to recover the original **12-bit value*
 - Digilent Nexys A7 FPGA
 - Xilinx XADC
 - 4 independent FIFOs
-- FIFO depth: **1024**
+- FIFO depth: **2048**
 - FIFO width: **12 bits**
 - UART transmission
 - Continuous data transfer
